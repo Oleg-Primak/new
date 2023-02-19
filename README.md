@@ -1,12 +1,3 @@
-# npm
-# Frontend Bundle
-Bundle for frontend development based on Parcel
-## Includes
-* Parcel
-* npm-run-all
-* es-lint
-* editorconfig (may need a [plugin](https://editorconfig.org/))
-
 ## Install
 ```
 npm install
